@@ -1,4 +1,4 @@
-# 【新】組込みソフトウェア機能設計書 (Functional Design)
+# 組込みソフトウェア機能設計書 (Functional Design)
 
 ## 1. はじめに
 
